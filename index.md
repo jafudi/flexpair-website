@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Flexpair
 
 You can use the [editor on GitHub](https://github.com/jafudi/jafudi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
