@@ -1,8 +1,11 @@
 ## Welcome to Flexpair
 
-You can use the [editor on GitHub](https://github.com/jafudi/jafudi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do you work with data in a (partly) remote setting? Then Flexpair solves the following problems for you:
+- multi-cloud and firewalls
+- dev/dev and dev/prod parity
+- efficient handovers
+- latency and bandwidth
+- necessity of multiple notebooks
 
 ### Markdown
 
