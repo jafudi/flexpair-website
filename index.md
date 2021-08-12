@@ -7,7 +7,7 @@ Do you work with data in a (partly) remote setting? Then Flexpair solves the fol
 - latency and bandwidth
 - necessity of multiple notebooks
 
-!(SplashScreen.png)
+![](SplashScreen.png)
 
 ### Markdown
 
