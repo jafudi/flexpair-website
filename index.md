@@ -7,6 +7,8 @@ Do you work with data in a (partly) remote setting? Then Flexpair solves the fol
 - latency and bandwidth
 - necessity of multiple notebooks
 
+!(SplashScreen.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
