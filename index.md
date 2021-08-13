@@ -1,15 +1,19 @@
 ## Welcome to Flexpair
 
-Do you work with data in a (partly) remote setting? Then Flexpair solves the following problems for you:
-- multi-cloud and firewalls
-- dev/dev and dev/prod parity
-- efficient handovers
-- latency and bandwidth
-- necessity of multiple notebooks
+The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
-![](SplashScreen.png)
+With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience? 
 
-### Markdown
+### Value Proposition
+
+With our novel solution, Flexpair, you will have
+- the feeling of shoulder-to-shoulder pair programming, even when working remotely
+- no environment mismatches ever again, even across different cloud providers
+- minimal latency, bandwidth usage and carbon footprint
+- no need for a second or third notebook
+
+![](architecture.png)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
