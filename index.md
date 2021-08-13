@@ -30,8 +30,6 @@ Not so fun fact: Did you know that the production of a notebook until you switch
 - SSH and TLS certificate for protecting your data
 - zero install, fully runs in your favorite browser
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ### When not to use Flexpair
 
 The least thing we want is to waste your precious time. Therefore, please do not read any further
