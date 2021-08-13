@@ -8,12 +8,14 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 With our novel Flexpair solution, which you can test here for free, you will have
 - the feeling of shoulder-to-shoulder pair programming, even when working remotely
-- zero friction when you need external people to join your session ad hoc
+- a unified tool for synchronous and asynchronous collaboration
+- zero friction when you need external people like freelancers to join your project ad hoc (important in times of skills shortage)
 - the ability to clone not only the code but the entire shared desktop at the press of a button
 - no missing dependencies etc. ever again, even across different cloud providers
 - the option to flexibly scale up (and down) your RAM and CPU cores
 - minimal latency and bandwidth requirements
 - no need for a second or third notebook
+- records of the whole interaction history in one place
 
 Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 
@@ -30,7 +32,17 @@ Flexpair is a collection of Terraform modules and cloud-init scripts for deployi
 - Receive a dedicated subdomain or bring your own
 - self-hosted team inbox [subdomain]@flexpair.com
 - SSH and TLS certificate for protecting your data
+- full control over where your data are stored
+- data privacy by locking out data collectors
 - zero install, fully runs in your favorite browser
+
+
+### Other ideas how to use Flexpair
+
+- Virtual creative space for brain storming and technology brokering 🧠💡♻
+- Patient-centered healthcare for everyone 🏥👩‍⚕️️🩺🤕🧘📧👩🏾‍🔬‍🧫🔬
+- Seamless task delegation to remote assistants 👩🏻‍💼👉🏻✅👂🏼‍🧞‍♂️
+- Professional podcast production across the globe 👳🏿‍♂️🎙🎛⟷🎙👨🏻‍🦰🎧
 
 ### When not to use Flexpair
 
@@ -39,6 +51,10 @@ The least thing we want is to waste your precious time. Therefore, please do not
 - if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions
 
 In any other case, we would love to have you as our valued customer.
+
+### Mission Statement
+
+To enable effective and human-friendly remote work that contributes to a fair distribution of intellectual property.
 
 ### Market Analysis
 
