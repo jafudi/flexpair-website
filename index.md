@@ -8,9 +8,14 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 With our novel solution, Flexpair, you will have
 - the feeling of shoulder-to-shoulder pair programming, even when working remotely
-- no environment mismatches ever again, even across different cloud providers
-- minimal latency, bandwidth usage and carbon footprint
+- zero friction when you need additional people to join your session ad hoc
+- the ability to clone not only the code but the entire shared desktop at the press of a button
+- no missing dependencies etc. ever again, even across different cloud providers
+- the option to flexibly scale up (and down) your RAM and CPU cores
+- minimal latency and bandwidth requirements
 - no need for a second or third notebook
+
+Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 
 ![](architecture.png)
 
