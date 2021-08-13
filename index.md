@@ -6,9 +6,9 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 ### Value Proposition
 
-With our novel solution, Flexpair, you will have
+With our novel Flexpair solution, which you can test here for free, you will have
 - the feeling of shoulder-to-shoulder pair programming, even when working remotely
-- zero friction when you need additional people to join your session ad hoc
+- zero friction when you need external people to join your session ad hoc
 - the ability to clone not only the code but the entire shared desktop at the press of a button
 - no missing dependencies etc. ever again, even across different cloud providers
 - the option to flexibly scale up (and down) your RAM and CPU cores
@@ -19,33 +19,25 @@ Not so fun fact: Did you know that the production of a notebook until you switch
 
 ![](architecture.png)
 
+### Tech Features
+
+- Ubuntu 20.04 LTS with lightweight LXQt desktop
+- Requires only 1 GB of RAM (often available for free)
+- Infrastructure-as-code powered by Terraform Cloud
+- Apache Guacamole for screen and Mumble for audio
+- Receive a dedicated subdomain or bring your own
+- self-hosted team inbox [subdomain]@flexpair.com
+- SSH and TLS certificate for protecting your data
+- zero install, fully runs in your favorite browser
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### When not to use Flexpair
 
-# Header 1
-## Header 2
-### Header 3
+The least thing we want is to waste your precious time. Therefore, please do not read any further
 
-- Bulleted
-- List
+- if you are keen on inviting every work contact into your living room, you are probably better off using [Zoom](https://zoom.us), [WebEx](https://www.webex.com/de/index.html), [Jitsi](https://jitsi.org) etc.
+- if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions
 
-1. Numbered
-2. List
+In any other case, we would love to have you as our valued customer 🤗
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jafudi/jafudi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
