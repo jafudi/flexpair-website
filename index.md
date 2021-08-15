@@ -1,4 +1,8 @@
-## Welcome to Flexpair 🤗
+## Not enough STEM talent at hand for your project?
+
+Don’t despair: Flexpair across organizations and time zones.
+
+Flexpair facilitates hands-on remote coworking based on cloud-agnostic reproducible infrastructure that you control.
 
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
@@ -15,7 +19,6 @@ With our novel Flexpair solution, which you can test here for free, you will hav
 - the option to flexibly scale up (and down) your RAM and CPU cores
 - minimal latency and bandwidth requirements
 - no need for a second or third notebook
-- records of the whole interaction history in one place
 
 Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 
