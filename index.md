@@ -1,4 +1,4 @@
-## Not enough STEM talent at hand for your project?
+## Not enough STEM talent at hand for your data-driven project?
 
 Don’t despair: Flexpair across organizations and time zones.
 
