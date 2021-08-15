@@ -13,7 +13,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 With our novel Flexpair solution, which you can test here for free, you will have
 - the feeling of shoulder-to-shoulder pair programming, even when working remotely
 - a unified tool for synchronous and asynchronous collaboration
-- zero friction when you need external people like freelancers to join your project ad hoc (important in times of skills shortage)
+- zero friction when you need external people like freelancers to join your project ad hoc
 - the ability to clone not only the code but the entire shared desktop at the press of a button
 - no missing dependencies etc. ever again, even across different cloud providers
 - the option to flexibly scale up (and down) your RAM and CPU cores
