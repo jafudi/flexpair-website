@@ -1,8 +1,15 @@
 ## Not enough STEM talent at hand for your data-driven project?
 
-Don’t despair: Flexpair across organizations and time zones.
+Don’t despair! Flexpair 🤗
 
-Flexpair facilitates hands-on remote coworking based on cloud-agnostic reproducible infrastructure that you control.
+<dl>
+  <dt><strong>to flexpair (verb)</strong></dt>
+  <dd>joined up thinking across organizations and timezones in a truly hands-on fashion, in particular among data people</dd>
+  <dt><strong>Flexpair (noun)</strong></dt>
+  <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, with multi-cloud support</dd>
+</dl>
+
+Flexpair facilitates truly hands-on remote coworking based on privacy-friendly and reproducible multi-cloud infrastructure that you control.
 
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
