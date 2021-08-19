@@ -1,12 +1,8 @@
-## Not enough STEM talent at hand for your data-driven project?
-
-Don’t despair! Flexpair 🤗
-
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
-  <dd>joined up thinking across organizations and timezones in a truly hands-on fashion, in particular among data people</dd>
+  <dd>joined up thinking across organizations and timezones in a truly hands-on fashion, in particular among STEM professionals</dd>
   <dt><strong>Flexpair (noun)</strong></dt>
-  <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, with multi-cloud support</dd>
+  <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, privacy-friendly and multi-cloud enabled</dd>
 </dl>
 
 Flexpair facilitates truly hands-on remote coworking based on privacy-friendly and reproducible multi-cloud infrastructure that you control.
