@@ -5,7 +5,7 @@
   <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, privacy-friendly and multi-cloud enabled</dd>
 </dl>
 
-Test it [here](demo.flexpair.com) for free and without installation!
+Test it [here](http://demo.flexpair.com) for free and without installation!
 
 Flexpair facilitates truly hands-on remote coworking based on privacy-friendly and reproducible multi-cloud infrastructure that you control.
 
