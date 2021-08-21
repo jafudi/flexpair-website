@@ -1,13 +1,11 @@
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
-  <dd>joined up thinking across organizations and timezones in a truly hands-on fashion, in particular among STEM professionals</dd>
+  <dd>to cowork and innovate across organizations and timezones in a truly hands-on fashion, in particular among STEM professionals</dd>
   <dt><strong>Flexpair (noun)</strong></dt>
   <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, privacy-friendly and multi-cloud enabled</dd>
 </dl>
 
 Test it [here](http://demo.flexpair.com){:target="_blank"} for free and without installation!
-
-Flexpair facilitates truly hands-on remote coworking based on privacy-friendly and reproducible multi-cloud infrastructure that you control.
 
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
@@ -15,7 +13,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 ### Value Proposition
 
-With our novel Flexpair solution, which you can test here for free, you will have
+With our novel Flexpair solution, you will have
 - the feeling of shoulder-to-shoulder pair programming, even when working remotely
 - a unified tool for synchronous and asynchronous collaboration
 - zero friction when you need external people like freelancers to join your project ad hoc
