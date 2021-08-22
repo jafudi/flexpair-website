@@ -58,9 +58,7 @@ Flexpair is a collection of Terraform modules and cloud-init scripts for deployi
 
 # When not to use Flexpair
 
-The least thing we want is to waste your precious time. Therefore, please do not read any further
+If you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions
 
-- if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions
-
-In any other case, we would love to have you as our valued customer.
+Also, Flexpair deliberately does not offer video conferencing
 
