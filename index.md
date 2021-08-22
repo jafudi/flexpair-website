@@ -8,12 +8,12 @@ The solution we came up with during Corona short-time work is called **Flexpair*
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
-  <dd>to cowork and innovate across organizations and timezones, as immediate as sitting next to each other shoulder to shoulder, popular among Linux affine STEM professionals and data scientists in particular</dd>
+  <dd>to cowork and innovate across organizations and timezones, as immediate as sitting next to each other shoulder to shoulder, suitable for Linux affine STEM professionals and data scientists in particular</dd>
   <dt><strong>Flexpair (noun)</strong></dt>
   <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, which is not only capable of multi-cloud deployment but also puts emphasis on privacy and environmental friendliness</dd>
 </dl>
 
- No surprise Flexpair simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Thus, it has all the features that your prospective high potentials value most, like
+ No surprise Flexpair simply rocks, being rock-solid <u>and</u> flexible in just the right places. Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Hence, it has all the features that your prospective high potentials value most, like
 - **r**eproducibility
 - **o**pen-source
 - **c**lean interface
