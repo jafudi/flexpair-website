@@ -2,10 +2,6 @@ The success of data-driven projects hinges on efficiently sharing work packages 
 
 With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
-# Mission Statement
-
-To enable effective and inclusive remote work that contributes to a fair distribution of intellectual property.
-
 # Value Proposition
 
 Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaboration of data-driven high potentials. And it has all the features that this target group values most, like
@@ -25,9 +21,15 @@ Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaborati
   <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, privacy-friendly and multi-cloud enabled</dd>
 </dl>
 
-Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or learn a bit more about the technical features below.
+Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or learn a bit more about our values and the technical features of our product below.
 
 ![](architecture.png)
+
+# Mission Statement
+
+To enable effective and inclusive remote work that contributes to 
+1. a fair distribution of intellectual property
+2. a significant reduction in global CO2 emissions
 
 With our novel Flexpair solution, you will have
 - the feeling of shoulder-to-shoulder pair programming, even when working remotely
