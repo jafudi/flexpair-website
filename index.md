@@ -22,7 +22,7 @@ The solution we came up with during 2020/21 Corona short-time work is called **F
 
 Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or learn a bit more about our values and the technical features of our product below.
 
-![](architecture.png)
+![](assets/architecture.png)
 
 # Mission Statement
 
@@ -55,8 +55,9 @@ Flexpair is a collection of Terraform modules and cloud-init scripts for deployi
 - zero install, fully runs in your favorite browser and hence
   - zero friction when you need external people like freelancers to join your project ad hoc
 
+![](assets/screenshots.gif)
 
-# When not to use Flexpair
+# When Not to use Flexpair
 
 If you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
 
