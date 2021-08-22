@@ -1,4 +1,9 @@
-Flexpair is a cloud environment for close hybrid collaboration of STEM professionals. And it has all the features that this target group values. Because it was tailor-made by experienced data scientists for their fellow data people.
+Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaboration of STEM professionals. And it has all the features that this target group values most, like
+- reproducibility
+- open-source
+- clean interface
+- scalable compute power
+ Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people.
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
