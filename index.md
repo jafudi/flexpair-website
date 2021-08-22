@@ -1,10 +1,10 @@
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
-With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience? And came up with **Flexpair**.
+With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
 # Value Proposition
 
-So, what does it mean
+What we came up with is a novel solution called **Flexpair**. Now, what does it actually mean
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
