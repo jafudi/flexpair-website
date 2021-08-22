@@ -8,9 +8,9 @@ What we came up with during Corona short-time work is **Flexpair**. Now, what do
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
-  <dd>to cowork and innovate across organizations and timezones in a truly hands-on fashion, in particular among STEM professionals</dd>
+  <dd>to cowork and innovate across organizations and timezones as immediate as sitting next to each other shoulder to shoulder, in particular among STEM professionals</dd>
   <dt><strong>Flexpair (noun)</strong></dt>
-  <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure for shoulder-to-shoulder-like remote collaboration, privacy-friendly and multi-cloud enabled</dd>
+  <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, which is not only multi-cloud enabled but puts special emphasis on being both privacy and environment friendly</dd>
 </dl>
 
  No surprise Flexpair simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people. Thus it has all the features that your prospective high potentials value most, like
