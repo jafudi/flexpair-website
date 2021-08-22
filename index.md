@@ -1,10 +1,10 @@
 Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaboration of STEM professionals. And it has all the features that this target group values most, like
 
-- *r*eproducibility
-- *o*pen-source
-- *c*lean interface
-- *k*now where your data resides
-- *s*calable compute power
+- **r**eproducibility
+- **o**pen-source
+- **c**lean interface
+- **k**now where your data resides
+- **s**calable compute power
 
  It simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people.
 
