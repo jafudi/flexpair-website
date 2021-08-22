@@ -21,7 +21,7 @@ Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaborati
   <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, privacy-friendly and multi-cloud enabled</dd>
 </dl>
 
-Take a free look at our [demo environment here](http://demo.flexpair.com){: .btn .btn-green  :target="_blank"}. Or read more about the technical features below.
+Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or read more about the technical features below.
 
 ![](architecture.png)
 
