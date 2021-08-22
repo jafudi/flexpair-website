@@ -10,7 +10,7 @@ The solution we came up with during 2020/21 Corona short-time work is called **F
   <dt><strong>to flexpair (verb)</strong></dt>
   <dd>to cowork and innovate across organizations and timezones, as immediate as sitting next to each other shoulder to shoulder, suitable for Linux affine STEM professionals and data scientists in particular</dd>
   <dt><strong>Flexpair (noun)</strong></dt>
-  <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, which is not only capable of multi-cloud deployment but also puts emphasis on privacy and environmental friendliness</dd>
+  <dd>flexibly scalable and reproducible shared desktop and communication infrastructure, which is not only capable of multi-cloud deployment but also puts emphasis on privacy and environmental friendliness</dd>
 </dl>
 
  No surprise Flexpair simply rocks, being rock-solid <u>and</u> flexible in just the right places. Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Hence, it has all the features that your prospective high potentials value most, like
@@ -30,13 +30,13 @@ To enable effective and inclusive remote work that contributes to
 1. a fair distribution of intellectual property
 2. a significant reduction in global CO2 emissions
 
-Most notably, project memebers will have no need for a second or third notebook anymore.
+Most notably, project members will have no need for a second or third notebook anymore.
 
 Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 
 # Tech Features
 
-Flexpair is a collection of Terraform modules and cloud-init scripts for deploying a shared Ubuntu desktop with built-in high quality audio conferencing and self-hosted team inbox to an arbitrary public cloud account. Free tier resources are sufficient and multicloud is actively supported.
+Flexpair is a collection of Terraform modules and cloud-init scripts for deploying a shared Ubuntu desktop with built-in high quality audio conferencing and self-hosted team inbox to an arbitrary public cloud account. Free tier resources are sufficient and multi-cloud is actively supported.
 
 - Ubuntu 20.04 LTS with lightweight LXQt desktop
   - Requires only 1 GB of RAM (often available for free)
@@ -60,5 +60,5 @@ Flexpair is a collection of Terraform modules and cloud-init scripts for deployi
 
 If you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions
 
-Also, Flexpair deliberately does not offer video conferencing
+Also, Flexpair deliberately does not offer video conferencing.
 
