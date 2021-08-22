@@ -1,3 +1,9 @@
+The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
+
+With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience? 
+
+# Value Proposition
+
 Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaboration of STEM professionals. And it has all the features that this target group values most, like
 
 - **r**eproducibility
@@ -6,7 +12,7 @@ Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaborati
 - **k**now where your data resides
 - **s**calable compute power
 
- It simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people.
+ No surprise it simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people.
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
@@ -17,11 +23,7 @@ Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaborati
 
 Test it [here](http://demo.flexpair.com){:target="_blank"} for free and without installation!
 
-The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
-
-With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience? 
-
-### Value Proposition
+![](architecture.png)
 
 With our novel Flexpair solution, you will have
 - the feeling of shoulder-to-shoulder pair programming, even when working remotely
@@ -34,8 +36,6 @@ With our novel Flexpair solution, you will have
 - no need for a second or third notebook
 
 Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
-
-![](architecture.png)
 
 ### Tech Features
 
