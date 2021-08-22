@@ -1,6 +1,10 @@
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
-With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience? 
+With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
+
+# Mission Statement
+
+To enable effective and inclusive remote work that contributes to a fair distribution of intellectual property.
 
 # Value Proposition
 
@@ -12,7 +16,7 @@ Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaborati
 - **k**now where your data resides
 - **s**calable compute power
 
- No surprise it simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people.
+ No surprise Flexpair simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people.
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
@@ -21,7 +25,7 @@ Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaborati
   <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, privacy-friendly and multi-cloud enabled</dd>
 </dl>
 
-Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or read more about the technical features below.
+Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or learn a bit more about the technical features below.
 
 ![](architecture.png)
 
@@ -37,7 +41,7 @@ With our novel Flexpair solution, you will have
 
 Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 
-### Tech Features
+# Tech Features
 
 Flexpair is a collection of Terraform modules and cloud-init scripts for deploying a shared cloud desktop (Ubuntu 20.04 LTS) with high quality audio conferencing and self-hosted email inbox to an arbitrary public cloud account. Free tier resources are sufficient and multicloud is actively supported.
 
@@ -68,9 +72,7 @@ The least thing we want is to waste your precious time. Therefore, please do not
 
 In any other case, we would love to have you as our valued customer.
 
-### Mission Statement
 
-To enable effective and human-friendly remote work that contributes to a fair distribution of intellectual property.
 
 ### Market Analysis
 
