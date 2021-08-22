@@ -13,6 +13,8 @@ The solution we came up with during 2020/21 Corona short-time work is called **F
   <dd>flexibly scalable and reproducible shared desktop and communication infrastructure, which is not only capable of multi-cloud deployment but also puts emphasis on privacy and environmental friendliness</dd>
 </dl>
 
+![](assets/architecture.png)
+
  No surprise Flexpair simply rocks, being rock-solid <u>and</u> flexible in just the right places. Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Hence, it has all the features that your prospective high potentials value most, like
 - **r**eproducibility
 - **o**pen-source
@@ -21,8 +23,6 @@ The solution we came up with during 2020/21 Corona short-time work is called **F
 - **s**calable compute power 
 
 Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or learn a bit more about our values and the technical features of our product below.
-
-![](assets/architecture.png)
 
 # Mission Statement
 
@@ -37,6 +37,8 @@ Not so fun fact: Did you know that the production of a notebook until you switch
 # Tech Features
 
 Flexpair is a collection of Terraform modules and cloud-init scripts for deploying a shared Ubuntu desktop with built-in high quality audio conferencing and self-hosted team inbox to an arbitrary public cloud account. Free tier resources are sufficient and multi-cloud is actively supported.
+
+![](assets/screenshots.gif)
 
 - Ubuntu 20.04 LTS with lightweight LXQt desktop
   - Requires only 1 GB of RAM (often available for free)
@@ -54,8 +56,6 @@ Flexpair is a collection of Terraform modules and cloud-init scripts for deployi
 - data privacy by locking out data collectors
 - zero install, fully runs in your favorite browser and hence
   - zero friction when you need external people like freelancers to join your project ad hoc
-
-![](assets/screenshots.gif)
 
 # When Not to use Flexpair
 
