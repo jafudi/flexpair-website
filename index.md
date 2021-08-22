@@ -4,22 +4,21 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 # Value Proposition
 
-Flexpair is a cloud environment for shoulder-to-shoulder-like remote collaboration of data-driven high potentials. And it has all the features that this target group values most, like
-
-- **r**eproducibility
-- **o**pen-source
-- **c**lean interface
-- **k**now where your data resides
-- **s**calable compute power
-
- No surprise Flexpair simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people.
+So, what does it mean
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
   <dd>to cowork and innovate across organizations and timezones in a truly hands-on fashion, in particular among STEM professionals</dd>
   <dt><strong>Flexpair (noun)</strong></dt>
-  <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure, privacy-friendly and multi-cloud enabled</dd>
+  <dd>flexibly scalable and reproducible shared desktop and communication infrastrucure for shoulder-to-shoulder-like remote collaboration, privacy-friendly and multi-cloud enabled</dd>
 </dl>
+
+ No surprise Flexpair simply rocks, because it was tailor-made by experienced data scientists to be enjoyable for their fellow data people. Thus it has all the features that your prospective high potentials value most, like
+- **r**eproducibility
+- **o**pen-source
+- **c**lean interface
+- **k**now where your data resides
+- **s**calable compute power 
 
 Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or learn a bit more about our values and the technical features of our product below.
 
@@ -58,7 +57,7 @@ Flexpair is a collection of Terraform modules and cloud-init scripts for deployi
 - data privacy by locking out data collectors
 - zero install, fully runs in your favorite browser
 
-### When not to use Flexpair
+# When not to use Flexpair
 
 The least thing we want is to waste your precious time. Therefore, please do not read any further
 
