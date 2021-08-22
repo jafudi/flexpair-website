@@ -4,7 +4,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 # Value Proposition
 
-The solution we came up with during Corona short-time work is called **Flexpair**. Now, what does it actually mean
+The solution we came up with during 2020/21 Corona short-time work is called **Flexpair**. Now, what does it actually mean
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
