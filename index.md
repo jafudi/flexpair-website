@@ -4,7 +4,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 # Value Proposition
 
-What we came up with during Corona short-time work is `flexpair.com`. Now, what does it actually mean
+What we came up with during Corona short-time work is **Flexpair**. Now, what does it actually mean
 
 <dl>
   <dt><strong>to flexpair (verb)</strong></dt>
