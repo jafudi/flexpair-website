@@ -43,7 +43,7 @@ Not so fun fact: Did you know that the production of a notebook until you switch
 
 # Tech Features
 
-Flexpair is a collection of Terraform modules and cloud-init scripts for deploying a shared cloud desktop (Ubuntu 20.04 LTS) with high quality audio conferencing and self-hosted email inbox to an arbitrary public cloud account. Free tier resources are sufficient and multicloud is actively supported.
+Flexpair is a collection of Terraform modules and cloud-init scripts for deploying a shared Ubuntu desktop with built-in high quality audio conferencing and self-hosted team inbox to an arbitrary public cloud account. Free tier resources are sufficient and multicloud is actively supported.
 
 - Ubuntu 20.04 LTS with lightweight LXQt desktop
 - Requires only 1 GB of RAM (often available for free)

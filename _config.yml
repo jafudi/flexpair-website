@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 
 title: Need more data skills on your project?
 description: Don't despair ➜ Maximize your reach for data talent with Flexpair!
+
+demo:
+  demo_url: http://demo.flexpair.com
