@@ -1,5 +1,6 @@
 **Don't despair. Flexpair!**
-![](assets/architecture.png)
+[![](assets/architecture.png)](http://demo.flexpair.com){:target="_blank"}
+
 
 **We've got you covered.**
 
