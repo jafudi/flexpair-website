@@ -1,4 +1,4 @@
-Don't despair. Flexpair! We've got you covered.
+**Don't despair. Flexpair! We've got you covered.**
 
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
