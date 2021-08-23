@@ -1,5 +1,7 @@
 **Don't despair. Flexpair! We've got you covered.**
 
+![](assets/architecture.png)
+
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
 With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
@@ -15,7 +17,7 @@ The solution we came up with during 2020/21 Corona short-time work is called **F
   <dd>flexibly scalable and reproducible shared desktop and communication infrastructure, which is not only capable of multi-cloud deployment but also puts emphasis on privacy and environmental friendliness</dd>
 </dl>
 
-![](assets/architecture.png)
+
 
  No surprise Flexpair simply rocks, being rock-solid <u>and</u> flexible in just the right places. Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Hence, it has all the features that your prospective high potentials value most, like
 - **r**eproducibility
