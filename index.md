@@ -1,5 +1,4 @@
 **Don't despair. Flexpair!**
-
 ![](assets/architecture.png)
 
 **We've got you covered.**
