@@ -1,10 +1,10 @@
 theme: jekyll-theme-cayman
 
-title: Need to flexibly staff D data scientists working from L locations in T time zones to R project roles involving C cloud providers 🤔
+title: Need to flexibly staff D data scientists working from L locations in T time zones to R project roles involving C different cloud providers 🤔
 
 description: while keeping the clients, the nerds and, last but not least, the regulators happy?
 github:
   repository_url: https://github.com/jafudi/pairpac
 
 demo:
-  demo_url: http://demo.flexpair.com
+  demo_url: http://demo.flexpair.com 
