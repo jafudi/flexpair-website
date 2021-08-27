@@ -1,13 +1,13 @@
-# Don't despair. Flexpair!
+## Don't despair. Flexpair!
 [![](assets/architecture.png)](http://demo.flexpair.com){:target="_blank"}
 
-## Seamless transitions between synch and asynch
+### Seamless transitions between synch and asynch
 
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
 With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
-## Consistently reproducible work environment
+### Consistently reproducible work environment
 
 
 The solution we came up with during 2020/21 Corona short-time work is called **Flexpair**. Now, what does it actually mean
@@ -19,7 +19,7 @@ The solution we came up with during 2020/21 Corona short-time work is called **F
   <dd>flexibly scalable and reproducible shared desktop and communication infrastructure, which is not only capable of multi-cloud deployment but also puts emphasis on privacy and environmental friendliness</dd>
 </dl>
 
-## Taking privacy and data protection serious
+### Taking privacy and data protection serious
 
  No surprise Flexpair simply rocks, being rock-solid <u>and</u> flexible in just the right places. Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Hence, it has all the features that your prospective high potentials value most, like
 - **r**eproducibility
@@ -30,7 +30,7 @@ The solution we came up with during 2020/21 Corona short-time work is called **F
 
 Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or learn a bit more about our values and the technical features of our product below.
 
-## Save money and the planet, there's no contradiction
+### Save money and the planet, there's no contradiction
 
 To enable effective and inclusive remote work that contributes to 
 1. a fair distribution of intellectual property
@@ -40,7 +40,7 @@ Most notably, project members will have no need for a second or third notebook a
 
 Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 
-# Tech Features
+### Tech Features
 
 Flexpair is a collection of Terraform modules and cloud-init scripts for deploying a shared Ubuntu desktop with built-in high quality audio conferencing and self-hosted team inbox to an arbitrary public cloud account. Free tier resources are sufficient and multi-cloud is actively supported.
 
