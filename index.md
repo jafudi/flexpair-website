@@ -1,4 +1,4 @@
-#Don't despair. Flexpair!
+# Don't despair. Flexpair!
 [![](assets/architecture.png)](http://demo.flexpair.com){:target="_blank"}
 
 ## Seamless transitions between synch and asynch
