@@ -1,6 +1,13 @@
 **Don't despair 🤗 Flexpair!**
 [![](assets/architecture.png)](http://demo.flexpair.com){:target="_blank"}
 
+<dl>
+  <dt><strong>to flexpair (verb)</strong></dt>
+  <dd>to cowork and innovate across organizations and timezones, as immediate as sitting next to each other shoulder to shoulder, suitable for Linux affine STEM professionals and data scientists in particular</dd>
+  <dt><strong>Flexpair (noun)</strong></dt>
+  <dd>flexibly scalable and reproducible shared desktop and communication infrastructure, which is not only capable of multi-cloud deployment but also puts emphasis on privacy and environmental friendliness</dd>
+</dl>
+
 ## Seamless transitions between synch and asynch
 
 The success of data-driven projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
@@ -12,12 +19,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 The solution we came up with during 2020/21 Corona short-time work is called **Flexpair**. Now, what does it actually mean
 
-<dl>
-  <dt><strong>to flexpair (verb)</strong></dt>
-  <dd>to cowork and innovate across organizations and timezones, as immediate as sitting next to each other shoulder to shoulder, suitable for Linux affine STEM professionals and data scientists in particular</dd>
-  <dt><strong>Flexpair (noun)</strong></dt>
-  <dd>flexibly scalable and reproducible shared desktop and communication infrastructure, which is not only capable of multi-cloud deployment but also puts emphasis on privacy and environmental friendliness</dd>
-</dl>
+
 
 ## Taking privacy and data protection serious
 
