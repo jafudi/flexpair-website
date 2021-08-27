@@ -1,4 +1,4 @@
-**Don't despair. Flexpair!**
+**Don't despair 🤗 Flexpair!**
 [![](assets/architecture.png)](http://demo.flexpair.com){:target="_blank"}
 
 ## Seamless transitions between synch and asynch
@@ -30,7 +30,7 @@ The solution we came up with during 2020/21 Corona short-time work is called **F
 
 Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}. Or learn a bit more about our values and the technical features of our product below.
 
-## Save money and the planet, there's no contradiction
+## No contradiction: Save money and the planet
 
 To enable effective and inclusive remote work that contributes to 
 1. a fair distribution of intellectual property
