@@ -4,6 +4,7 @@
 Knowing a thing or two about data science ourselves, we understand that the success of data projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
 With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
+
 ## Seamless transitions between synch and asynch
 
 - share a cloud desktop for pair programming and hear each other
@@ -13,12 +14,14 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 - Apache Guacamole for screen and Mumble for audio
 - Receive a dedicated subdomain or bring your own
 - self-hosted team inbox [subdomain]@flexpair.com
+
 ## Consistently reproducible work environment
 
 - Infrastructure-as-code powered by Terraform Cloud
 - the option to flexibly scale up (and down) your RAM and CPU cores
 - the ability to clone not only the code but the entire shared desktop at the press of a button
 - no missing dependencies etc. ever again, even across different cloud providers
+
 ## Taking privacy and data protection serious
 
 - SSH encryption and TLS certificate for protecting your data
