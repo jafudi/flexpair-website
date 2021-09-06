@@ -46,4 +46,4 @@ Take a free look at our [demo environment here](http://demo.flexpair.com){:targe
 
 If you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
 
-Also, Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and Big Brother in the next.
+Also, Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
