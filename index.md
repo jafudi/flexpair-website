@@ -7,20 +7,18 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 ## Seamless transitions between synch and asynch
 
-- share a cloud desktop for pair programming and hear each other
-- automatically clone desktop even across cloud providers
-- switch between each others desktops at the press of a button
+- share a cloud desktop for pair programming
+- hear each other in high quality
+- easily switch back and forth between desktops 
 - zero install, fully runs in your favorite browser
-- Apache Guacamole for screen and Mumble for audio
 - Receive a dedicated subdomain or bring your own
 - self-hosted team inbox [subdomain]@flexpair.com
 
 ## Consistently reproducible work environment
 
 - Infrastructure-as-code powered by Terraform Cloud
-- the option to flexibly scale up (and down) your RAM and CPU cores
 - the ability to clone not only the code but the entire shared desktop at the press of a button
-- no missing dependencies etc. ever again, even across different cloud providers
+- no missing dependencies: never hear "but it worked on my machine" ever again
 
 ## Taking privacy and data protection serious
 
