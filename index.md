@@ -1,9 +1,8 @@
-**Don't despair 🤗 Flexpair now and bring 'em up to speed in minutes, wherever they are!**
-[![](assets/architecture.png)](http://demo.flexpair.com){:target="_blank"}
-
 Knowing a thing or two about data science ourselves, we understand that the success of data projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
 With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
+
+![To flexpair means seamless transitions between demonstration, collaboration and delegation.](assets/concept.png)
 
 ## Seamless transitions between synch and asynch
 
@@ -13,6 +12,8 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 - zero install, fully runs in your favorite browser
 - Receive a dedicated subdomain or bring your own
 - self-hosted team inbox [subdomain]@flexpair.com
+
+[![](assets/architecture.png)](http://demo.flexpair.com){:target="_blank"}
 
 ## Consistently reproducible work environment
 
@@ -41,6 +42,8 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 - **s**calable compute power 
 
 Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}!
+
+![](assets/screenshots.gif)
 
 ## When Not to use Flexpair
 
