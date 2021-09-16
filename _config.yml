@@ -3,8 +3,9 @@ theme: jekyll-theme-cayman
 title: Demonstrate, collaborate, delegate, repeat.
 
 description: Flexpair enables consistent and inclusive data science across any kind of boundaries - except the ones you set.
+
 github:
   repository_url: https://github.com/jafudi/pairpac
 
 demo:
-  demo_url: http://demo.flexpair.com 
+  demo_url: http://demo.flexpair.com
