@@ -2,7 +2,7 @@ Knowing a thing or two about data science ourselves, we understand that the succ
 
 With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
-![To flexpair means seamless transitions between demonstration, collaboration and delegation.](assets/concept.png)
+![To flexpair means seamless transitions between demonstration, collaboration and delegation.](assets/benefits.png)
 
 ## Seamless transitions between synch and asynch
 
