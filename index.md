@@ -6,31 +6,35 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 ## Consistent across synch and asynch work modes
 
-### Flexibility aspect
+### Through Flexibility
 
-### Boundaries aspect
+### Through Boundaries
 
 If you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
 
 ## Consistent across multiple cloud providers
 
-### Flexibility aspect
+### Through Flexibility
 
-### Boundaries aspect
+- Infrastructure-as-code powered by Terraform Cloud
+
+### Through Boundaries
+
+- the ability to clone not only the code but the entire shared desktop at the press of a button
 
 # Sustainability
 
 ## Sustainable for our planetary ecosystem
 
-### Flexibility aspect
+### Through Flexibility
 
-### Boundaries aspect
+### Through Boundaries
 
 ## Sustainable for the motivation of your team
 
-### Flexibility aspect
+### Through Flexibility
 
-### Boundaries aspect
+### Through Boundaries
 
 - never hear "but it worked on my machine" ever again
 
@@ -38,18 +42,21 @@ If you really need to give someone remote access to your local machine, please c
 
 ## Inclusive of neurodiverse top talent
 
-### Flexibility aspect
+### Through Flexibility
 
-### Boundaries aspect
+### Through Boundaries
 
 Also, Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
 
 ## Inclusive of worldwide top talent
 
-### Flexibility aspect
+Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Hence, it has all the features that your prospective high potentials value most.
 
-### Boundaries aspect
+### Through Flexibility
 
+### Through Boundaries
+
+- minimal bandwidth requirements
 
 
 
@@ -64,12 +71,8 @@ Also, Flexpair deliberately does not offer video conferencing. Because remote wo
 - Receive a dedicated subdomain or bring your own
 - self-hosted team inbox [subdomain]@flexpair.com
 
-[![](assets/architecture.png)](http://demo.flexpair.com){:target="_blank"}
+[![](assets/architecture.png)](http://demo.flexpair.com)
 
-## Consistently reproducible work environment
-
-- Infrastructure-as-code powered by Terraform Cloud
-- the ability to clone not only the code but the entire shared desktop at the press of a button
 
 
 ## Taking privacy and data protection serious
@@ -83,9 +86,9 @@ Also, Flexpair deliberately does not offer video conferencing. Because remote wo
 - Project members will have no need for a second or third notebook anymore. Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 - Ubuntu 20.04 LTS with lightweight LXQt desktop requires only 1 GB of RAM (often available for free)
 - flexibly scale the number of project desktops and their compute power up and down
-- minimal bandwidth requirements
 
- No surprise Flexpair simply rocks, being rock-solid <u>and</u> flexible in just the right places. Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Hence, it has all the features that your prospective high potentials value most, like
+
+ No surprise Flexpair simply rocks, being rock-solid <u>and</u> flexible in just the right places. , like
 - **r**eproducibility
 - **o**pen-source
 - **c**lean interface
