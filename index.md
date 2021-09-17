@@ -1,5 +1,5 @@
 
-Flexpair enables consistent, sustainable and inclusive data science📊 across <em>any</em> kind of boundaries&mdash;except the ones you define.
+Flexpair enables consistent, sustainable and inclusive 📊data science📊 across <em>any</em> kind of boundaries&mdash;except the ones you define.
 # Consistency
 
 ## Consistent across synch and asynch work modes
