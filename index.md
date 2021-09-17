@@ -8,9 +8,18 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 ### Through Flexibility
 
+- easily switch back and forth between desktops
+- share a cloud desktop for pair programming
+
 ### Through Boundaries
 
-If you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
+- if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
+
+- zero install, fully runs in your favorite browser
+
+- SSH encryption and TLS certificate for protecting your data
+- full control over where your data are stored
+- data privacy by locking out data collectors
 
 ## Consistent across multiple cloud providers
 
@@ -28,11 +37,23 @@ If you really need to give someone remote access to your local machine, please c
 
 ### Through Flexibility
 
+- flexibly scale the number of project desktops and their compute power up and down
+
 ### Through Boundaries
+
+- Project members will have no need for a second or third notebook anymore. Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
+
+- Ubuntu 20.04 LTS with lightweight LXQt desktop requires only 1 GB of RAM (often available for free)
 
 ## Sustainable for the motivation of your team
 
 ### Through Flexibility
+
+- hear each other in high quality
+ 
+- Receive a dedicated subdomain or bring your own
+
+- self-hosted team inbox [subdomain]@flexpair.com
 
 ### Through Boundaries
 
@@ -42,61 +63,38 @@ If you really need to give someone remote access to your local machine, please c
 
 ## Inclusive of neurodiverse top talent
 
+Made by neurodiverse people for neurodiverse people.
+
 ### Through Flexibility
+
+- flexible working time
+- flexible work location
 
 ### Through Boundaries
 
-Also, Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
+- Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
 
 ## Inclusive of worldwide top talent
 
-Because it was tailor-made by experienced data scientists to be enjoyable for their fellow data nerds. Hence, it has all the features that your prospective high potentials value most.
+Made by experienced data scientists for their fellow data nerds.
 
 ### Through Flexibility
+
+- open-source first approach
 
 ### Through Boundaries
 
 - minimal bandwidth requirements
 
 
-
-
-
-![To flexpair means seamless transitions between demonstration, collaboration and delegation.](assets/benefits.png)
-
-- share a cloud desktop for pair programming
-- hear each other in high quality
-- easily switch back and forth between desktops 
-- zero install, fully runs in your favorite browser
-- Receive a dedicated subdomain or bring your own
-- self-hosted team inbox [subdomain]@flexpair.com
-
 [![](assets/architecture.png)](http://demo.flexpair.com)
 
 
 
-## Taking privacy and data protection serious
-
-- SSH encryption and TLS certificate for protecting your data
-- full control over where your data are stored
-- data privacy by locking out data collectors
-
-## No contradiction: Save money and the planet
-
-- Project members will have no need for a second or third notebook anymore. Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
-- Ubuntu 20.04 LTS with lightweight LXQt desktop requires only 1 GB of RAM (often available for free)
-- flexibly scale the number of project desktops and their compute power up and down
 
 
- No surprise Flexpair simply rocks, being rock-solid <u>and</u> flexible in just the right places. , like
-- **r**eproducibility
-- **o**pen-source
-- **c**lean interface
-- **k**now where your data resides
-- **s**calable compute power 
 
-Take a free look at our [demo environment here](http://demo.flexpair.com){:target="_blank"}!
 
-![](assets/screenshots.gif)
+
 
 
