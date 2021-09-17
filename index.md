@@ -1,28 +1,27 @@
-## Consistency
-
-### Consistent across synch and asynch work modes
-
-### Consistent across multiple cloud providers
-
-## Sustainability
-
-### Sustainable for our planetary ecosystem
-
-### Sustainable for the motivation of your team
-
-## Inclusion
-
-### Inclusive of neurodiverse top talent
-
-### Inclusive of worldwide top talent
-
 Knowing a thing or two about data science ourselves, we understand that the success of data projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
 With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
-![To flexpair means seamless transitions between demonstration, collaboration and delegation.](assets/benefits.png)
+# Consistency
 
-## Seamless transitions between synch and asynch
+## Consistent across synch and asynch work modes
+
+## Consistent across multiple cloud providers
+
+# Sustainability
+
+## Sustainable for our planetary ecosystem
+
+## Sustainable for the motivation of your team
+
+# Inclusion
+
+## Inclusive of neurodiverse top talent
+
+## Inclusive of worldwide top talent
+
+
+![To flexpair means seamless transitions between demonstration, collaboration and delegation.](assets/benefits.png)
 
 - share a cloud desktop for pair programming
 - hear each other in high quality
