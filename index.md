@@ -1,6 +1,6 @@
 
 Flexpair enables [consistent](#consistency), [sustainable](#sustainability) and [inclusive](#inclusion) 📊**data science**🧪 across *any* kind of boundaries&mdash;except the ones you define.
-# Consistency
+# Consistency😌
 
 ## Consistent across synch and asynch work modes
 
@@ -31,7 +31,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 - full control over where your data are stored
 - data privacy by locking out data collectors
 
-# Sustainability
+# Sustainability🌱
 
 ## Sustainable for our planetary ecosystem
 
@@ -59,7 +59,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 - never hear "but it worked on my machine" ever again
 
-# Inclusion
+# Inclusion🪢
 
 ## Inclusive of neurodiverse top talent
 
