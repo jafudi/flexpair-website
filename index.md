@@ -57,7 +57,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 - never hear "but it worked on my machine" ever again
 
-# 🪢 Inclusion
+## 🪢 Inclusion
 
 ### Inclusive of neurodiverse top talent
 
