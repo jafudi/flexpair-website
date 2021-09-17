@@ -1,20 +1,20 @@
-# Consistency
+## Consistency
 
-## Consistent across synch and asynch work modes
+### Consistent across synch and asynch work modes
 
-## Consistent across multiple cloud providers
+### Consistent across multiple cloud providers
 
-# Sustainability
+## Sustainability
 
-## Sustainable for our planetary ecosystem
+### Sustainable for our planetary ecosystem
 
-## Sustainable for the motivation of your team
+### Sustainable for the motivation of your team
 
-# Inclusion
+## Inclusion
 
-## Inclusive of neurodiverse top talent
+### Inclusive of neurodiverse top talent
 
-## Inclusive of worldwide top talent
+### Inclusive of worldwide top talent
 
 Knowing a thing or two about data science ourselves, we understand that the success of data projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
