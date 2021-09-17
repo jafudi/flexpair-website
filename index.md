@@ -6,19 +6,53 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 ## Consistent across synch and asynch work modes
 
+### Flexibility aspect
+
+### Boundaries aspect
+
+If you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
+
 ## Consistent across multiple cloud providers
+
+### Flexibility aspect
+
+### Boundaries aspect
 
 # Sustainability
 
 ## Sustainable for our planetary ecosystem
 
+### Flexibility aspect
+
+### Boundaries aspect
+
 ## Sustainable for the motivation of your team
+
+### Flexibility aspect
+
+### Boundaries aspect
+
+- never hear "but it worked on my machine" ever again
 
 # Inclusion
 
 ## Inclusive of neurodiverse top talent
 
+### Flexibility aspect
+
+### Boundaries aspect
+
+Also, Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
+
 ## Inclusive of worldwide top talent
+
+### Flexibility aspect
+
+### Boundaries aspect
+
+
+
+
 
 
 ![To flexpair means seamless transitions between demonstration, collaboration and delegation.](assets/benefits.png)
@@ -36,7 +70,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 - Infrastructure-as-code powered by Terraform Cloud
 - the ability to clone not only the code but the entire shared desktop at the press of a button
-- no missing dependencies: never hear "but it worked on my machine" ever again
+
 
 ## Taking privacy and data protection serious
 
@@ -62,8 +96,4 @@ Take a free look at our [demo environment here](http://demo.flexpair.com){:targe
 
 ![](assets/screenshots.gif)
 
-## When Not to use Flexpair
 
-If you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
-
-Also, Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
