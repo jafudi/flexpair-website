@@ -29,6 +29,8 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 - full control over where your data are stored
 - data privacy by locking out data collectors
 
+[![](assets/architecture.png)](http://demo.flexpair.com)
+
 ## 🌱 Sustainability
 
 ### Sustainable for our planetary ecosystem
@@ -84,8 +86,6 @@ Made by experienced data scientists for their fellow data nerds.
 
 - minimal bandwidth requirements
 
-
-[![](assets/architecture.png)](http://demo.flexpair.com)
 
 
 
