@@ -18,7 +18,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 - zero install, fully runs in your favorite browser (TLS certificate included)
 
 
-## Consistent across multiple cloud providers
+## Consistent across multi-cloud deployments
 
 ### Through Flexibility
 
