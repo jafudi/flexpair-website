@@ -1,6 +1,6 @@
 
 Flexpair enables [consistent](#consistency), [sustainable](#sustainability) and [inclusive](#inclusion) 📊**data science**🧪 across *any* kind of boundaries&mdash;except the ones you define.
-# Consistency✅
+# Consistency✔️
 
 ## Consistent across synch and asynch work modes
 
