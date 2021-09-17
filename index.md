@@ -15,21 +15,20 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 - if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
 
-- zero install, fully runs in your favorite browser
+- zero install, fully runs in your favorite browser (TLS certificate included)
 
-- SSH encryption and TLS certificate for protecting your data
-- full control over where your data are stored
-- data privacy by locking out data collectors
 
 ## Consistent across multiple cloud providers
 
 ### Through Flexibility
 
 - Infrastructure-as-code powered by Terraform Cloud
+- the ability to clone not only the code but the entire shared desktop at the press of a button
 
 ### Through Boundaries
 
-- the ability to clone not only the code but the entire shared desktop at the press of a button
+- full control over where your data are stored
+- data privacy by locking out data collectors
 
 # Sustainability
 
