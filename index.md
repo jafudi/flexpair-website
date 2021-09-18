@@ -3,11 +3,11 @@ Flexpair enables consistent, sustainable and inclusive **📊data science🧪** 
 
 Let's make an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds🤓 who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair!
 
-Having over 8 years of experience on data science focused consulting projects under our belts, we understand that the success of those projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
+With over 8 years of experience on data science focused consulting projects under our belts, we understand that the success of those projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
 ## ✅ Consistency
 
-With more and more companies transitioning into a hybrid work model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
+As more and more companies transition to a hybrid working model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
 ### Consistent across synch and asynch work modes
 
