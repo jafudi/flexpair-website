@@ -19,7 +19,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 - zero install, fully runs in your favorite browser (TLS certificate included)
 
 
-### Consistent across multi-cloud deployments
+### Consistent across multiple cloud providers
 
 #### Through Flexibility
 
@@ -47,7 +47,7 @@ With more and more companies transitioning into a hybrid work model, we asked ou
 
 - Ubuntu 20.04 LTS with lightweight LXQt desktop requires only 1 GB of RAM (often available for free)
 
-### Sustainable for the motivation of your team
+### Sustainable for your team's motivation
 
 #### Through Flexibility
 
