@@ -1,7 +1,7 @@
 
 Flexpair enables consistent, sustainable and inclusive **📊data science🧪** across *any* kind of boundaries&mdash;except the ones you define.
 
-Let's make an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds🤓 who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair!
+To give an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds🤓 who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair!
 
 With over 8 years of experience on data science focused consulting projects under our belts, we understand that the success of those projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
