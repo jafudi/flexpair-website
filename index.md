@@ -1,7 +1,7 @@
 
 Flexpair enables consistent, sustainable and inclusive **📊data science🧪** across *any* kind of boundaries&mdash;except the ones you define.
 
-Let's make an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds🤓 who work from y locations in z (personal) time zones. You:😵‍💫 We:🤗
+Let's make an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds🤓 who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair!
 ## ✅ Consistency
 ### Consistent across synch and asynch work modes
 Knowing a thing or two about data science ourselves, we understand that the success of data projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
