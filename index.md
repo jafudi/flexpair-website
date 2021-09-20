@@ -1,7 +1,7 @@
 
 Flexpair enables consistent data science role sharing across *any* kind of boundaries&mdash;except the ones you define.
 
-To give an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds🤓 who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
+To give an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
 
 With over 8 years of data science experience under our belts, we understand that the success of these projects hinges on efficiently sharing work packages between coworkers and jointly delivering them to the client.
 
