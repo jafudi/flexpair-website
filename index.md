@@ -20,6 +20,8 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - Infrastructure-as-code powered by Terraform Cloud
 - flexibly scale the number of project desktops and their compute power up and down
 
+![High-level illustration of the Flexpair architecture](assets/architecture.png)
+
 ## Record and replay handover sessions
 
 
@@ -43,5 +45,3 @@ And as more and more companies transition to a hybrid working model, we asked ou
 
 - full control over where your data are stored
 - data privacy by locking out data collectors
-
-![High-level illustration of the Flexpair architecture](assets/architecture.png)
