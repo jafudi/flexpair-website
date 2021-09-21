@@ -11,14 +11,17 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - minimal bandwidth requirements
 - zero install, fully runs in your favorite browser
 - Receive a dedicated subdomain or bring your own
+
 ## Fully reproducible work environment
 - the ability to clone not only the code but the entire shared desktop at the press of a button
 - never hear "but it worked on my machine" ever again
+
 ## Scalable multi-cloud infrastructure
 - Infrastructure-as-code powered by Terraform Cloud
 - flexibly scale the number of project desktops and their compute power up and down
 
 ## Record and replay handover sessions
+
 
 ## Carbon dioxide and waste reduction
 - Project members will have no need for a second or third notebook anymore. Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
