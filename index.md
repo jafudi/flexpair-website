@@ -36,7 +36,7 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - flexible working time
 - flexible work location
 
-## Personal boundaries and privacy
+## Personal boundaries and data protection
 - Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
 
 - if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
