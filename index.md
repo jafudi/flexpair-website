@@ -4,6 +4,8 @@ With over 8 years of [data science experience](https://de.linkedin.com/in/fielen
 
 And as more and more companies transition to a hybrid working model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
+![Demonstrate, collaborate, delegate](assets/benefits.png)
+
 ## Truly interactive wherever you are
 - easily switch back and forth between desktops
 - share a cloud desktop for pair programming
