@@ -7,43 +7,42 @@ And as more and more companies transition to a hybrid working model, we asked ou
 ![Demonstrate, collaborate, delegate](assets/benefits.png)
 
 ## Truly interactive wherever you are
-- easily switch back and forth between desktops
-- share a cloud desktop for pair programming
-- hear each other in high quality
-- minimal bandwidth requirements
-- zero install, fully runs in your favorite browser
-- Receive a dedicated subdomain or bring your own
+- we do not waste valuable bandwidth for stuttering video
+- we concentrate on live co-editing and high quality audio
+- place your server where your teams has minimum latency
 
 ## Fully reproducible work environment
-- the ability to clone not only the code but the entire shared desktop at the press of a button
-- never hear "but it worked on my machine" ever again
+- never ever again hear or say the words "but it worked on my machine"
+- clone not only source code but the entire desktop at the press of a button
+- quickly onboard new colleagues by skipping the manual setup process 
 
 ## Scalable multi-cloud infrastructure
-- Infrastructure-as-code powered by Terraform Cloud
-- flexibly scale the number of project desktops and their compute power up and down
+- Infrastructure-as-code controlled from Terraform Cloud and GitHub
+- flexibly scale the number of desktops and their compute power up and down
+- combine (even free tier) resources from all major cloud providers in one deployment
+- automatically receive a dedicated subdomain and team email inbox
 
 ![High-level illustration of the Flexpair architecture](assets/architecture.png)
 
 ## Record and replay handover sessions
-
+- voices as well as sound played on the desktop can be recorded as separate audio tracks
+- no need to take notes, fully concentrate on asking the right questions
+- participants can decide afterwards to keep or delete their individual tracks
 
 ## Carbon dioxide and waste reduction
-- Project members will have no need for a second or third notebook anymore. Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
-
+- we go beyond the obvious "less business travel" argument
+- no need for a second or third notebook, because Flexpair fully runs in your favorite browser
+- Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 - Ubuntu 20.04 LTS with lightweight LXQt desktop requires only 1 GB of RAM (often available for free)
 
 ## Inclusion through maximum flexibility
 - actively supports synchronous and asynchronous work modes
-- self-hosted team inbox [subdomain]@flexpair.com
 - Made by neurodiverse people for neurodiverse people
-- Inclusive of neurodiverse top talent
-- flexible working time
+- there is many top talented neurodiverse people out there
 - flexible work location
 
 ## Personal boundaries and data protection
 - Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
-
 - if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
-
 - full control over where your data are stored
 - data privacy by locking out data collectors
