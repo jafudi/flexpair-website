@@ -28,6 +28,7 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - voices as well as sound played on the desktop can be recorded as separate audio tracks
 - no need to take notes, fully concentrate on asking the right questions
 - participants can decide afterwards to keep or delete their individual tracks
+- large video recordings are saved directly in the cloud, instead of cluttering your local disk
 
 ## Carbon dioxide and waste reduction
 - we go beyond the obvious "less business travel" argument
