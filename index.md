@@ -44,5 +44,5 @@ And as more and more companies transition to a hybrid working model, we asked ou
 ## Personal boundaries and data protection
 - Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
 - if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
-- full control over where your data are stored
-- data privacy by locking out data collectors
+- full control over which data are stored and where
+- a TLS certificate is automatically created and renewed for you
