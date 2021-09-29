@@ -9,18 +9,21 @@ And as more and more companies transition to a hybrid working model, we asked ou
 ## Truly interactive wherever you are
 - we do not waste valuable bandwidth for stuttering video
 - we concentrate on live co-editing and high quality audio
-- place your server where your teams has minimum latency
+- 1-click switching between multiple shared desktops in your team
+- minimize latency (delay) by strategic choice of data center location
+- self-hosted team inbox for asynchronous collaboration by mail
 
 ## Fully reproducible work environment
 - never ever again hear or say the words "but it worked on my machine"
 - clone not only source code but the entire desktop at the press of a button
-- quickly onboard new colleagues by skipping the manual setup process 
+- quickly onboard new colleagues while skipping the manual notebook setup
+- reserve an easy-to-remember web address like https://yourproject.flexpair.com
 
 ## Scalable multi-cloud infrastructure
 - Infrastructure-as-code controlled from Terraform Cloud and GitHub
-- flexibly scale the number of desktops and their compute power up and down
-- combine (even free tier) resources from all major cloud providers in one deployment
-- automatically receive a dedicated subdomain and team email inbox
+- flexibly scale the number of desktops and their compute power up (and down)
+- desktops connect to a central communication hub via secure SSH tunnels
+- combine (even free tier) resources from all major cloud providers
 
 ![High-level illustration of the Flexpair architecture](assets/architecture.png)
 
@@ -41,6 +44,7 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - Made by neurodiverse people for neurodiverse people
 - there is many top talented neurodiverse people out there
 - flexible work location
+- we are many - unfortunately: that is true for the mentally ill
 
 ## Personal boundaries and data protection
 - Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
