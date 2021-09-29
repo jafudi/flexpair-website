@@ -17,7 +17,7 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - never ever again hear or say the words "but it worked on my machine"
 - clone not only source code but the entire desktop at the press of a button
 - quickly onboard new colleagues while skipping the manual notebook setup
-- reserve an easy-to-remember web address like https://yourproject.flexpair.com
+- reserve an easy-to-remember web address like https://myproject.flexpair.com
 
 ## Scalable multi-cloud infrastructure
 - Infrastructure-as-code controlled from Terraform Cloud and GitHub
