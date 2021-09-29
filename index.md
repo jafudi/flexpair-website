@@ -8,10 +8,10 @@ And as more and more companies transition to a hybrid working model, we asked ou
 
 ## Truly interactive wherever you are
 - we do not waste valuable bandwidth for stuttering video
-- we concentrate on live co-editing and high quality audio
-- 1-click switching between multiple shared desktops in your team
-- minimize latency (delay) by strategic choice of data center location
-- self-hosted team inbox for asynchronous collaboration by mail
+- we focus on live co-editing and pleasant, high quality audio
+- easy 1-click switching between multiple shared desktops in your team
+- minimize signal latency by a strategic choice of your server location
+- includes a self-hosted team inbox for asynchronous collaboration by mail
 
 ## Fully reproducible work environment
 - never ever again hear or say the words "but it worked on my machine"
