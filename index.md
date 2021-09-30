@@ -40,11 +40,11 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - Ubuntu 20.04 LTS with lightweight LXQt desktop requires only 1 GB of RAM (often available for free)
 
 ## Inclusion through maximum flexibility
-- actively supports synchronous and asynchronous work modes
-- Made by neurodiverse people for neurodiverse people 🧑‍🤝‍🧑
-- there is many top talented neurodiverse people out there
-- flexible work location
-- we are many - unfortunately: that is true for the mentally ill
+- looks and sexual identity does not matter on Flexpair ⚧️🦄
+- anxiety related to being in front of a camera or among people 🎗️🧘
+- made by neurodiverse people for neurodiverse people 
+- care for your child and about your career 👶🌡️
+- source your top talent worldwide 🌍🧑🏿‍💻
 
 ## Personal boundaries and data protection
 - Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
