@@ -10,11 +10,11 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - we do not waste valuable bandwidth for stuttering video
 - we focus on live co-editing and pleasant, high quality audio
 - easy 1-click switching between multiple shared desktops in your team
-- minimize signal latency by a strategic choice of your server location 🌍
+- minimize signal latency by a strategic choice of your server location
 - includes a self-hosted team inbox for asynchronous collaboration by mail
 
 ## Fully reproducible work environment
-- never ever again hear or say the words "but it worked on my machine 🤔"
+- never ever again hear or say the words "but it worked on my machine"
 - clone not only source code but the entire desktop at the press of a button
 - quickly onboard new colleagues while skipping the manual notebook setup
 - reserve an easy-to-remember web address like https://myproject.flexpair.com
@@ -36,13 +36,12 @@ And as more and more companies transition to a hybrid working model, we asked ou
 ## Carbon dioxide and waste reduction
 - we go beyond the obvious "less business travel" argument
 - no need for a second or third notebook, because Flexpair fully runs in your favorite browser
-- Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car? 🛢️
+- Not so fun fact: Did you know that the production of a notebook until you switch it on the first time produces as much CO2 as driving about 1200 km with your car?
 - Ubuntu 20.04 LTS with lightweight LXQt desktop requires only 1 GB of RAM (often available for free)
 
 ## Inclusion through maximum flexibility
 - looks and sexual identity does not matter on Flexpair ⚧️🦄
-- anxiety related to being in front of a camera or among people 🎗️🧘
-- made by neurodiverse people for neurodiverse people 
+- let anxiety related to being in front of a camera or among people not stop you 🎗️🧘 
 - care for your child and about your career 👶🌡️
 - source your top talent worldwide 🌍🧑🏿‍💻
 
