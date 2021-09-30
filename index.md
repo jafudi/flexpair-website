@@ -21,14 +21,14 @@ And as more and more companies transition to a hybrid working model, we asked ou
 
 ## Scalable multi-cloud infrastructure
 - Infrastructure-as-code controlled from Terraform Cloud and GitHub
-- flexibly scale the number of desktops and their compute power up and down ⚖️
+- flexibly scale the number of desktops and their compute power up and down
 - desktops connect to a central communication hub via secure SSH tunnels
 - combine (even free tier) resources from all major cloud providers
 
 ![High-level illustration of the Flexpair architecture](assets/architecture.png)
 
 ## Record and replay handover sessions
-- voices as well as sound played on the desktop can be recorded as separate audio tracks 🎙️
+- voices as well as sound played on the desktop can be recorded as separate audio tracks
 - no need to take notes, fully concentrate on asking the right questions
 - participants can decide afterwards to keep or delete their individual tracks
 - large video recordings are saved directly in the cloud, instead of cluttering your local disk
@@ -48,5 +48,5 @@ And as more and more companies transition to a hybrid working model, we asked ou
 ## Personal boundaries and data protection
 - Flexpair deliberately does not offer video conferencing. Because remote work should not feel like being a lone wolf in one moment and like Big Brother in the next.
 - if you really need to give someone remote access to your local machine, please consider using [TeamViewer](https://www.teamviewer.com/en/) or comparable established solutions.
-- full control over which data are stored and where 🗄️
+- full control over which data are stored and where
 - a TLS certificate is automatically created and renewed for you
