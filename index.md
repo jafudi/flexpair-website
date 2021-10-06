@@ -1,3 +1,5 @@
+Flexpair provides the technology to include the ideas of maximum diverse talent worlwide. We also believe that the best way of motivating is to track the impact of individual contributions and to provide a fair equity stake in eventual successes.
+
 To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
 
 With over 8 years of [data science experience](https://de.linkedin.com/in/fielenbach) under our belts, we understand that the success of these projects hinges on efficiently sharing work packages between coworkers before jointly delivering them to the client.
