@@ -1,4 +1,4 @@
-Flexpair achieves these goals by strictly following two design principles
+Flexpair achieves these goals by strictly following two design principles:
 1. Less is more
 2. Reproducibility
 
