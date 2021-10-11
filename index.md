@@ -1,10 +1,12 @@
-Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO2 emissions and electronic waste. We also believe that the best way of motivating is to track the impact of individual contributions and to provide a fair equity stake in eventual successes.
+To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
+
+Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO2 emissions and electronic waste. 
 
 We achieve these goals by strictly following two design principles:
-1. Less is more (simplifies going multi-cloud)
-2. Reproducibility (we'll explain in a second)
+1. Less is more
+2. Reproducibility
 
-To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
+We also believe that the best way of motivating is to track the impact of individual contributions and to provide a fair equity stake in eventual successes.
 
 With over 8 years of [data science experience](https://de.linkedin.com/in/fielenbach) under our belts, we understand that the success of these projects hinges on efficiently sharing work packages between coworkers before jointly delivering them to the client.
 
