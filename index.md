@@ -1,4 +1,6 @@
-Flexpair achieves these goals by following a strict "less is more" design principle.
+Flexpair achieves these goals by strictly following two design principles
+1. Less is more
+2. Reproducibility
 
 
 Flexpair provides the technology to include the ideas of maximum diverse talent worldwide while reducing pollution. We also believe that the best way of motivating is to track the impact of individual contributions and to provide a fair equity stake in eventual successes.
