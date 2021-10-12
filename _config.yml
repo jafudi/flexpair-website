@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
-title: Interactively handover work packages
-description: in data science and beyond, embedded into a fully reproducible multicloud desktop environment
+title: Uniting the power of sync and async
+description: Interactively handover work packages, embedded into a fully reproducible multicloud desktop environment.
 
 github:
   repository_url: https://github.com/jafudi/pairpac
