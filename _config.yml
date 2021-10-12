@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 title: Combine the benefits of sync and async
-description: Interactively handover work packages, embedded into a fully reproducible multicloud desktop environment.
+description: <u>Interactively</u> handover work packages, embedded into a fully <u>reproducible</u> <u>multicloud</u> desktop environment.
 
 github:
   repository_url: https://github.com/jafudi/pairpac
