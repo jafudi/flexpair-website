@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
-title: Uniting the power of sync and async
-description: to make data science globally interactive, sustainable and inclusive
+title: Interactively handover data science work packages
+description: embedded into a fully reproducible cloud desktop environment
 
 github:
   repository_url: https://github.com/jafudi/pairpac
