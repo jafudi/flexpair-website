@@ -1,6 +1,6 @@
 To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
 
-Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO2 emissions and electronic waste. 
+Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste. 
 
 We achieve these goals by strictly following two design principles:
 1. Less is more
