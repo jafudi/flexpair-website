@@ -1,10 +1,13 @@
+| Three goals:                                                                                                   | Three design principles:                                |
+|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| 1. Enabling efficient data science<br>2. Diversity, equity and inclusion<br>3. Preserving our beautiful planet | 1. Reproducibility<br>2. Open source<br>3. Less is more |
+|                                                                                                                |                                                         |
+|                                                                                                                |                                                         |
+
+
 To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
 
 Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste. 
-
-We achieve these goals by strictly following two design principles:
-1. Less is more
-2. Reproducibility
 
 We also believe that the best way of motivating is to track the impact of individual contributions and to provide a fair equity stake in eventual successes.
 
