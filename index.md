@@ -7,7 +7,7 @@ Three overarching goals:
 Three design principles:
 
 1. Reproducibility
-2. Open source
+2. Ease of access
 3. Less is more
 
 To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
