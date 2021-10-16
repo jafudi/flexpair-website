@@ -16,15 +16,13 @@ by following clear design principles:
 
 To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
 
-Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste. 
-
-We also believe that the best way of motivating is to track the impact of individual contributions and to provide a fair equity stake in eventual successes.
-
 With over 8 years of [data science experience](https://de.linkedin.com/in/fielenbach) under our belts, we understand that the success of these projects hinges on efficiently sharing work packages between coworkers before jointly delivering them to the client.
 
 And as more and more companies transition to a hybrid working model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
+Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste. 
 
+We also believe that the best way of motivating is to track the impact of individual contributions and to provide a fair equity stake in eventual successes.
 
 ## Truly interactive wherever you are
 - we do not waste valuable bandwidth for stuttering video
