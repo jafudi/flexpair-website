@@ -1,3 +1,5 @@
+![Demonstrate, collaborate, delegate](assets/benefits.png)
+
 We aim at three overarching goals:
 
 1. Enabling efficient data science
@@ -10,6 +12,8 @@ by following clear design principles:
 2. Provide secure and easy access
 3. Minimize the use of resources
 
+![High-level illustration of the Flexpair architecture](assets/architecture.png)
+
 To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
 
 Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste. 
@@ -20,7 +24,7 @@ With over 8 years of [data science experience](https://de.linkedin.com/in/fielen
 
 And as more and more companies transition to a hybrid working model, we asked ourselves the question: How can we make those frequent handovers more consistent and a truly hands-on experience?
 
-![Demonstrate, collaborate, delegate](assets/benefits.png)
+
 
 ## Truly interactive wherever you are
 - we do not waste valuable bandwidth for stuttering video
@@ -40,8 +44,6 @@ And as more and more companies transition to a hybrid working model, we asked ou
 - flexibly scale the number of desktops and their compute power up and down
 - desktops connect to a central communication hub via secure SSH tunnels
 - combine (even free tier) resources from all major cloud providers
-
-![High-level illustration of the Flexpair architecture](assets/architecture.png)
 
 ## Record and replay handover sessions
 - voices as well as sound played on the desktop can be recorded as separate audio tracks
