@@ -8,7 +8,7 @@ We aim at three overarching goals:
 
 by following clear design principles:
 
-1. Make everything reproducible (cloud infrastructure, software environment, knowledge transfer)
+1. Make everything reproducible (cloud infrastructure, installed software, knowledge transfer)
 2. Provide secure and easy access (zero local installation, strong encryption, respect for privacy)
 3. Minimize the use of resources (e.g. RAM, band width or duplicate hardware per project)
 
