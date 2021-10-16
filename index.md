@@ -2,7 +2,7 @@
 
 We aim at three overarching goals:
 
-1. Enjoy data science from anywhere
+1. Meaningful hybrid data science
 2. Diversity, equity and inclusion
 3. Preserving our beautiful planet
 
