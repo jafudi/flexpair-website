@@ -10,7 +10,7 @@ by following clear design principles:
 
 1. Make everything reproducible (cloud infrastructure, installed software, knowledge transfer)
 2. Provide secure and easy access (zero local installation, strong encryption, respect for privacy)
-3. Minimize the use of resources (e.g. allocated RAM, band width or duplicate hardware per project)
+3. Minimize the use of resources (allocated RAM, band width, duplicate hardware per project)
 
 ![High-level illustration of the Flexpair architecture](assets/architecture.png)
 
