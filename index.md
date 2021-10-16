@@ -1,10 +1,10 @@
-Three overarching goals:
+We aim at three overarching goals:
 
 1. Enabling efficient data science
 2. Diversity, equity and inclusion
 3. Preserving our beautiful planet
 
-Three design principles:
+by following clear design principles:
 
 1. Make everything reproducible
 2. Provide secure and easy access
