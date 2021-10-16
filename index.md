@@ -6,9 +6,9 @@ Three overarching goals:
 
 Three design principles:
 
-1. Reproducibility
-2. Ease of access
-3. Less is more
+1. Make everything reproducible
+2. Provide secure and easy access
+3. Minimize the use of resources
 
 To give you an example: As a manager, you need to fill m project roles involving x cloud providers with n≠m data nerds who work from y locations in z (personal) time zones. You: 😵‍💫 We: 🤗 Don't despair&mdash;flexpair!
 
