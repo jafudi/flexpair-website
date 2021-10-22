@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 title: We integrate sync and async data science
-description:  Review merge requests together. Each in a dedicated staging environment with real data. Like you are in one room even when halfway around the globe. While saving the only environment we have.
+description:  Review merge requests together. Each in a dedicated staging environment with real data. Like you are in one room even when halfway around the globe. While saving the only environment we will ever have.
 
 github:
   repository_url: https://github.com/jafudi/pairpac
