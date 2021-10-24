@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 title: We integrate sync and async data science
-description: 'Never want to hear again "&hellip;but it worked on my computer and all tests were green🥺"? Then you need Flexpair for your team. Interactively review merge requests together on a shared cloud desktop. Feel like being in one room, even when working on opposite sides of the globe. And the best: It can be freshly recreated at the push of a button with all dependencies you specify installed.'
+description: 'Never want to hear again "&hellip;but it worked on my computer and all tests were green🥺"? Then you need Flexpair for your team. Interactively review merge requests together on a shared cloud desktop. Feel like being in one room, even when working on opposite sides of the globe. And the best: It can be freshly recreated at the push of a button with all dependencies installed and test data prepared. Doesn't matter which cloud provider(s) you use.'
 github:
   repository_url: https://github.com/jafudi/pairpac
 
