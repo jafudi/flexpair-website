@@ -1,8 +1,7 @@
 theme: jekyll-theme-cayman
 
 title: We integrate sync and async data science
-description:  Interactively review merge requests, each in a dedicated staging environment with real data&mdash;together. Like you are in one room even when on the opposite side of the globe.
-
+description:  Flexpair provides continous integration for and of hybrid data teams. Review merge requests in an equally interactive and reproducible staging environment with real data. Feel like being in one room, even when on the opposite side of the globe, and help save the only environment we will ever have.
 github:
   repository_url: https://github.com/jafudi/pairpac
 
