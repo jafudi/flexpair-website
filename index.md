@@ -1,5 +1,3 @@
-![Demonstrate, collaborate, delegate](assets/benefits.png)
-
 We aim at three overarching goals:
 
 1. Meaningful hybrid data science
@@ -8,9 +6,9 @@ We aim at three overarching goals:
 
 by following clear design principles:
 
-1. Make everything reproducible *(cloud infrastructure, installed software, knowledge transfer)*
-2. Provide secure and easy access *(strong encryption, zero local install, respect for privacy)*
-3. Minimize the use of resources *(required RAM, band width, no duplicate hardware)*
+1. Make everything reproducible *(e.g. cloud infrastructure, installed software, knowledge transfer)*
+2. Provide secure and easy access *(e.g. strong encryption, zero local install, respect for privacy)*
+3. Minimize the use of resources *(e.g. required RAM, band width, no duplicate hardware)*
 
 ![High-level illustration of the Flexpair architecture](assets/architecture.png)
 
