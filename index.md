@@ -1,29 +1,37 @@
+## Our Values
+
 We aim at three overarching goals:
 
 1. Meaningful hybrid data science
 2. Diversity, equity and inclusion
 3. Preserving our beautiful planet
-
-by following clear design principles:
-
-1. Make everything reproducible → *cloud infrastructure, installed software, knowledge transfer*
-2. Provide secure and easy access → *strong encryption, zero local install, respect for privacy*
-3. Minimize the use of resources → *RAM and band width requirements, no duplicate hardware*
-
-![High-level illustration of the Flexpair architecture](assets/architecture.png)
-
 ## Problem
 
 1. most data science applications are evaluated and eventually approved by the customer based on visualizations and using real data
 2. CI/CD pipelines usually contain neither significant amounts of real data nor visualizations for technical and runtime reasons and due to data protection.
 3. workarounds like testing on local machines and traditional screen sharing do not solve the problem, as these individual development environments are neither identical to each other nor to the production environment (dependencies etc.)
 4. Even if a dedicated (shared) staging environment exists, it is often used only for the master branch and thus far too rarely or late in the process. Nevertheless, financial and environmental fixed costs are constantly incurred.
+5. The problem existed before Corona, and it does not get easier in a hybrid work context 
 
 <!-- Nach dem Intro geht es normalerweise um das Problem, was euer Produkt oder eure Dienstleistung für einen potenziellen Markt löst. Vermeidet hier komplizierte Formulierungen oder diskutable Argumente. In der Regel sind drei sehr klare und unwiderlegbare Aussagen völlig ausreichend. Lasst keine Zweifel aufkommen und formuliert diese Folie so, dass jeder das Problem nachvollziehen kann. -->
 
 ## Solution
 
+1. Automatically create an identical clone of a standardized staging environment whenever opening a merge request for a feature branch. 
+2. Have automated CI/CD run in the created staging environment
+3. Schedule an interactive live review session with one of your peers, where you both access the staging environment over the web
+4. After the merge, tear down the environment automatically.
+
+We achieve this by following clear design principles:
+
+1. Make everything reproducible → *cloud infrastructure, installed software, knowledge transfer*
+2. Provide secure and easy access → *strong encryption, zero local install, respect for privacy*
+3. Minimize the use of resources → *RAM and band width requirements, no duplicate hardware*
+
+
 <!-- Für jedes Problem, das ihr in eurem Pitch Deck aufzeigt, solltet ihr auch schlagkräftige Lösungen präsentieren. Diese Folie muss so konzipiert sein, dass ihr schnell und verständlich den Nutzen eures Produktes oder eurer Dienstleistung kommunizieren könnt. Auf diese Weise solltet ihr ebenfalls sehr klare Aussagen darüber treffen, wie die zuvor dargestellten Problemen durch eure Technologie gelöst werden. Keine Verkomplizierung! Haltet es einfach und auf den Punkt! -->
+
+![High-level illustration of the Flexpair architecture](assets/architecture.png)
 
 ## Product Demo
 
