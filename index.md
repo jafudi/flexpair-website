@@ -132,7 +132,7 @@ Finally, the Servicable Obtainable Market (SOM) is likely the small and medium s
 
 With over 8 years of [data science experience](https://de.linkedin.com/in/fielenbach) under our belts, we understand that the success of these projects hinges on efficiently sharing work packages between coworkers before jointly delivering them to the client.
 
-### User experience
+<!-- ### User experience
 - Papa um uns Unterlagen für Wipperfliess zu zeigen
 - Lea für Stationsversammlung
 - Samy Amara
@@ -196,7 +196,7 @@ With over 8 years of [data science experience](https://de.linkedin.com/in/fielen
 - Kaisa Karvonen
 
 
-<!-- Die Team-Folie ist für uns essenziell. Wir wollen sehen, wen wir womöglich in die CyberLab Community aufnehmen. Diese Folie zeigt die Gründer*innen und die Schlüsselpersonen, die euer Startup voranbringen sollen. Hier ist es wichtig zu zeigen, welche Aufgabenbereiche ihr in eurem Unternehmen habt und dass ihr ein komplementär aufgestelltes Team seid. Wir möchten also kurz und bündig sehen, welche Personen sich zusammengefunden haben, um das Startup zu langfristigen Erfolg zu bringen. -->
+Die Team-Folie ist für uns essenziell. Wir wollen sehen, wen wir womöglich in die CyberLab Community aufnehmen. Diese Folie zeigt die Gründer*innen und die Schlüsselpersonen, die euer Startup voranbringen sollen. Hier ist es wichtig zu zeigen, welche Aufgabenbereiche ihr in eurem Unternehmen habt und dass ihr ein komplementär aufgestelltes Team seid. Wir möchten also kurz und bündig sehen, welche Personen sich zusammengefunden haben, um das Startup zu langfristigen Erfolg zu bringen. -->
 
 ## Traction / Milestones / Roadmap
 
