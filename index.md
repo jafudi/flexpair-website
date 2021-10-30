@@ -1,5 +1,3 @@
-## Our Values
-
 We aim at three overarching goals:
 
 1. Meaningful hybrid data science
