@@ -1,12 +1,8 @@
-We aim at three overarching goals:
-
-1. Meaningful hybrid data science
-2. Diversity, equity and inclusion
-3. Preserving our beautiful planet
+The following explanations are addressed towards early adopters and potential investors.
 
 ## Problem
 
-You do not need to be in the same place to do good data science. But you have to balance sync and async timing adequately. The right things asynchronous and the right things synchronous.
+Data science has become location-independent. Still it is lacking a meaningful integration of synchronous and asynchronous work steps in one tool.
 
 1. most data science applications are evaluated and eventually approved by the customer based on visualizations and using real data
 2. CI/CD pipelines usually contain neither significant amounts of real data nor visualizations for technical and runtime reasons and due to data protection.
@@ -18,14 +14,12 @@ You do not need to be in the same place to do good data science. But you have to
 
 ## Solution
 
-Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste.
-
 1. Automatically create an identical clone of a standardized staging environment whenever opening a merge request for a feature branch. 
 2. Have automated CI/CD run in the created staging environment
 3. Schedule an interactive live review session with one of your peers, where you both access the staging environment over the web
 4. After the merge, tear down the environment automatically.
 
-We achieve this by following clear design principles:
+Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste. We achieve this by following clear design principles:
 
 1. Make everything reproducible → *cloud infrastructure, installed software, knowledge transfer*
 2. Provide secure and easy access → *strong encryption, zero local install, respect for privacy*
