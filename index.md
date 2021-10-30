@@ -6,6 +6,8 @@ We aim at three overarching goals:
 
 ## Problem
 
+You do not need to be in the same place to do good data science. But you have to balance sync and async timing adequately. The right things asynchronous and the right things synchronous.
+
 1. most data science applications are evaluated and eventually approved by the customer based on visualizations and using real data
 2. CI/CD pipelines usually contain neither significant amounts of real data nor visualizations for technical and runtime reasons and due to data protection.
 3. workarounds like testing on local machines and traditional screen sharing do not solve the problem, as these individual development environments are neither identical to each other nor to the production environment (dependencies etc.)
@@ -15,6 +17,8 @@ We aim at three overarching goals:
 <!-- Nach dem Intro geht es normalerweise um das Problem, was euer Produkt oder eure Dienstleistung für einen potenziellen Markt löst. Vermeidet hier komplizierte Formulierungen oder diskutable Argumente. In der Regel sind drei sehr klare und unwiderlegbare Aussagen völlig ausreichend. Lasst keine Zweifel aufkommen und formuliert diese Folie so, dass jeder das Problem nachvollziehen kann. -->
 
 ## Solution
+
+Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste.
 
 1. Automatically create an identical clone of a standardized staging environment whenever opening a merge request for a feature branch. 
 2. Have automated CI/CD run in the created staging environment
@@ -41,7 +45,27 @@ Include screenshots.
 
 ## Market Size
 
-Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste.
+### Nice Class 9 (Software)
+Computer programs for connecting remotely to computers or computer networks;
+Cloud computing software;
+Collaboration software; Real-Time Collaborative Editing [RTCE] platforms [software];
+Development environment software;
+Software for arranging online transactions;
+
+### Nice Class 38 (Telecommunication Services):
+Teleconferencing services;
+Electronic messaging services;
+Providing online facilities for real-time interaction with other computer users;
+Providing user access to platforms on the Internet;
+
+### Nice Class 42 (IT Services):
+Rental, installation and configuration of computer software; Configuration of computer networks using software; Updating and adapting of computer programs according to user requirements;
+Computer software consultancy; Advisory services in the field of product development and quality improvement of software; Computer system design using agile development methods;
+Platform as a service [PaaS]; Software as a service [SaaS];
+Configuration of computer networks using software;
+Hosting online facilities for conducting interactive discussions;
+Cloud computing; Providing virtual computer systems and virtual computer environments through cloud computing;
+Providing temporary use of web-based applications;
 
 According to a [press release from Gartner in July 2020](https://www.gartner.com/en/newsroom/press-releases/2020-07-23-gartner-forecasts-worldwide-public-cloud-revenue-to-grow-6point3-percent-in-2020) the market demand for cloud-based desktop-as-a-service (DaaS) will rise to 2.535 billion USD in 2022. This consitutes the Total Addressable Market (TAM) which is, of course, totally unrealistic to achieve with our product in the near future.
 
@@ -54,6 +78,7 @@ Finally, the Servicable Obtainable Market (SOM) is likely the small and medium s
 <!-- Die Folie über eure potenzielle Marktgröße ist enorm wichtig, denn sie gibt uns erste Eindrücke darüber, wie ihr eure Geschäfts- und Wachstumsmöglichkeiten einschätzt. Es gibt hier verschiedenste Möglichkeiten eure Marktanalyse darzustellen. Ob Bottom Up, Top Down, TAM, SAM, SOM oder Szenario-Analysen – eurer Kreativität sind hier keine Grenzen gesetzt. Wichtig ist, dass die Größe eures Zielmarktes realistisch berechnet ist und das damit verbundene Potential ersichtlich wird. -->
 
 ## Business Model
+
 
 <!-- Die Zahlen sind das Herzstück eures Pitch Decks, daher solltet ihr hier nachvollziehbare Annahmen über euren Business Case liefern. Euer Erlösmodell in einfachen Worten zu präsentieren ist mit Sicherheit nicht die einfachste Aufgabe – schon gar nicht ohne euer verbales Zutun.  Macht verständlich, wie euer Startup funktioniert und ihr Geld verdienen wollt. -->
 
@@ -83,6 +108,7 @@ Finally, the Servicable Obtainable Market (SOM) is likely the small and medium s
 - flexibly scale the number of desktops and their compute power up and down
 - desktops connect to a central communication hub via secure SSH tunnels
 - combine (even free tier) resources from all major cloud providers
+
 
 <!-- Was macht euch und euer Geschäft einzigartig? Bis hierhin sollte es einfach zu verstehen sein, was eure Stärken sind und welche Vorteile ihr bieten könnt. Welche Technologien oder Innovationen setzt ihr ein, die euer Startup einzigartig machen? -->
 
