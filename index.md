@@ -5,6 +5,7 @@ We aim at three overarching goals:
 1. Meaningful hybrid data science
 2. Diversity, equity and inclusion
 3. Preserving our beautiful planet
+
 ## Problem
 
 1. most data science applications are evaluated and eventually approved by the customer based on visualizations and using real data
