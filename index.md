@@ -42,7 +42,7 @@ by following clear design principles:
 <!-- Bei dieser Folie sollte die Grafik bzw. die Tabelle deutlich machen, wie die Funktionen eurer Lösung dazu beitragen, dass ihr euch von euren Mitbewerber*innen in wesentlichen Punkten unterscheidet. Das Analysieren und Anerkennen eurer Konkurrenz ist wichtig. Es zeigt, wie informiert ihr über euer Geschäftsfeld seid und wie kompetitiv euer Markt einzuschätzen ist.
  -->
 
-# The Magic Sauce
+## The Magic Sauce
 
 <!-- Was macht euch und euer Geschäft einzigartig? Bis hierhin sollte es einfach zu verstehen sein, was eure Stärken sind und welche Vorteile ihr bieten könnt. Welche Technologien oder Innovationen setzt ihr ein, die euer Startup einzigartig machen? -->
 
@@ -54,11 +54,11 @@ by following clear design principles:
 
 <!-- Die Team-Folie ist für uns essenziell. Wir wollen sehen, wen wir womöglich in die CyberLab Community aufnehmen. Diese Folie zeigt die Gründer*innen und die Schlüsselpersonen, die euer Startup voranbringen sollen. Hier ist es wichtig zu zeigen, welche Aufgabenbereiche ihr in eurem Unternehmen habt und dass ihr ein komplementär aufgestelltes Team seid. Wir möchten also kurz und bündig sehen, welche Personen sich zusammengefunden haben, um das Startup zu langfristigen Erfolg zu bringen. -->
 
-# Traction / Milestones / Roadmap
+## Traction / Milestones / Roadmap
 
 <!-- Solch eine Folie am Ende des Pitch Decks erzeugt Glaubwürdigkeit. Hier solltet ihr zeigen was ihr bis zum Status Quo alles erreicht und unternommen habt, um eure Idee zu validieren. Genauso interessant ist es auch zu wissen, was eure nächsten Schritte sind bzw. sein könnten. Solltet ihr bis dato schon Erfolge oder relevante Zahlen, wie Umsatz, Anzahl Kunden und/oder Nutzer, etc. generiert haben: platziert sie präsent auf dieser Folie. -->
 
-# Call-To-Action
+## Call-To-Action
 
 <!-- Leider wird diese Folie oft vergessen. Egal ob ihr euch für das CyberLab bewerbt oder euer Startup vor Investoren oder anderen Wettbewerben vorstellt: Jeder möchte wissen, was ihr mit der Präsentation bezwecken wollt. Warum seid ihr hier? Was wollt ihr erreichen? Und für uns am wichtigsten zu wissen: Warum wollt ihr ins CyberLab? -->
 
