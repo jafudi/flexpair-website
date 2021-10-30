@@ -14,6 +14,11 @@ by following clear design principles:
 
 ## Problem
 
+1. most data science applications are evaluated and eventually approved by the customer based on visualizations and using real data
+2. CI/CD pipelines usually contain neither significant amounts of real data nor visualizations for technical and runtime reasons and due to data protection.
+3. workarounds like testing on local machines and traditional screen sharing do not solve the problem, as these individual development environments are neither identical to each other nor to the production environment (dependencies etc.)
+4. Even if a dedicated (shared) staging environment exists, it is often used only for the master branch and thus far too rarely or late in the process. Nevertheless, financial and environmental fixed costs are constantly incurred.
+
 <!-- Nach dem Intro geht es normalerweise um das Problem, was euer Produkt oder eure Dienstleistung für einen potenziellen Markt löst. Vermeidet hier komplizierte Formulierungen oder diskutable Argumente. In der Regel sind drei sehr klare und unwiderlegbare Aussagen völlig ausreichend. Lasst keine Zweifel aufkommen und formuliert diese Folie so, dass jeder das Problem nachvollziehen kann. -->
 
 ## Solution
