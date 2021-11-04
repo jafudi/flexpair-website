@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 
 title: We unite sync and async data science
-description: "Imagine a distributed team of data nerds hacking on a complex project, and nobody ever says stuff like: <em>But it worked on my machine🤷&hellip;</em>  That becomes easy with Flexpair! When handing over a task, you talk them through it on an interactive cloud desktop that has been replicated automatically, including all your custom dependencies. And before merging the new feature, you again visualize results together🤝 on real data&mdash;on any cloud."
+description: "Imagine a distributed team of data nerds hacking on a complex project, and nobody ever says stuff like: <em>But it worked on my machine🤷&hellip;</em>  That becomes easy with Flexpair! Because when handing over a task, you talk them through it on an interactive cloud desktop that has been replicated automatically, including all your custom dependencies. And before merging the new feature, you again visualize results together🤝 on real data&mdash;on any cloud."
 github:
   repository_url: https://github.com/jafudi/pairpac
 
