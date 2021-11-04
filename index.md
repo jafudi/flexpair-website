@@ -285,4 +285,4 @@ We also believe that the best way of motivating is to track the impact of indivi
 
 <!-- Leider wird diese Folie oft vergessen. Egal ob ihr euch für das CyberLab bewerbt oder euer Startup vor Investoren oder anderen Wettbewerben vorstellt: Jeder möchte wissen, was ihr mit der Präsentation bezwecken wollt. Warum seid ihr hier? Was wollt ihr erreichen? Und für uns am wichtigsten zu wissen: Warum wollt ihr ins CyberLab? -->
 
-Don't despair&mdash;flexpair!
+
