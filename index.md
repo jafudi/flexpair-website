@@ -1,4 +1,14 @@
-The following explanations are addressed towards early adopters and potential investors.
+We aim at three overarching goals:
+
+1. Meaningful hybrid data science
+2. Diversity, equity and inclusion
+3. Preserving our beautiful planet
+
+by following clear design principles:
+
+1. Make everything reproducible → *cloud infrastructure, installed software, knowledge transfer*
+2. Provide secure and easy access → *strong encryption, zero local install, respect for privacy*
+3. Minimize the use of resources → *RAM and band width requirements, no duplicate hardware*
 
 ## Problem
 
@@ -18,12 +28,6 @@ Data science has become location-independent. Still it is lacking a meaningful i
 2. Have automated CI/CD run in the created staging environment
 3. Schedule an interactive live review session with one of your peers, where you both access the staging environment over the web
 4. After the merge, tear down the environment automatically.
-
-Flexpair provides the technology to include the ideas of a maximum diverse, global talent pool while simultaneously reducing CO<sub>2</sub> emissions and electronic waste. We achieve this by following clear design principles:
-
-1. Make everything reproducible → *cloud infrastructure, installed software, knowledge transfer*
-2. Provide secure and easy access → *strong encryption, zero local install, respect for privacy*
-3. Minimize the use of resources → *RAM and band width requirements, no duplicate hardware*
 
 <!-- Für jedes Problem, das ihr in eurem Pitch Deck aufzeigt, solltet ihr auch schlagkräftige Lösungen präsentieren. Diese Folie muss so konzipiert sein, dass ihr schnell und verständlich den Nutzen eures Produktes oder eurer Dienstleistung kommunizieren könnt. Auf diese Weise solltet ihr ebenfalls sehr klare Aussagen darüber treffen, wie die zuvor dargestellten Problemen durch eure Technologie gelöst werden. Keine Verkomplizierung! Haltet es einfach und auf den Punkt! -->
 
