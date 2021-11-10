@@ -10,6 +10,7 @@ by following clear design principles:
 2. Provide secure and easy access → *strong encryption, zero local install, respect for privacy*
 3. Minimize the use of resources → *RAM and band width requirements, no duplicate hardware*
 
+![High-level illustration of the Flexpair architecture](assets/architecture.png)
 ## Problem
 
 Data science has become location-independent. Still it is lacking a meaningful integration of synchronous and asynchronous work steps in one tool.
@@ -30,8 +31,6 @@ Data science has become location-independent. Still it is lacking a meaningful i
 4. After the merge, tear down the environment automatically.
 
 <!-- Für jedes Problem, das ihr in eurem Pitch Deck aufzeigt, solltet ihr auch schlagkräftige Lösungen präsentieren. Diese Folie muss so konzipiert sein, dass ihr schnell und verständlich den Nutzen eures Produktes oder eurer Dienstleistung kommunizieren könnt. Auf diese Weise solltet ihr ebenfalls sehr klare Aussagen darüber treffen, wie die zuvor dargestellten Problemen durch eure Technologie gelöst werden. Keine Verkomplizierung! Haltet es einfach und auf den Punkt! -->
-
-![High-level illustration of the Flexpair architecture](assets/architecture.png)
 
 ## Product Demo
 
