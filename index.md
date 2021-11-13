@@ -81,6 +81,10 @@ Finally, the Servicable Obtainable Market (SOM) is likely the small and medium s
 
 ## Competition
 
+[Github Codespaces](https://github.com/features/codespaces)
+
+[Gitpod](https://www.gitpod.io)
+
 [Shells](https://www.shells.com/)
 
 [Zorin OS](https://zorin.com/os/details/)
