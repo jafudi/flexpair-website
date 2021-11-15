@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 title: Integrating sync and async data science
 description: "<em>But it worked on my machine&hellip;</em> If you heard this too often, don't despair. Flexpair with your distributed team in an infrastructure-as-code staging environment. Replicate it at the push of a button for each new feature branch including all software packages that your project depends on. With audio conferencing and mouse sharing built right into this collaborative cloud desktop, task handovers as well as review sessions have never been that interactive and resource effective. Simply scale up and down as needed&mdash;across all major cloud providers."
 github:
-  repository_url: https://github.com/jafudi/pairpac
+  repository_url: https://github.com/jafudi/flexpair
 
 demo:
   demo_url: http://demo.flexpair.com
