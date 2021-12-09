@@ -81,7 +81,7 @@ Finally, the Servicable Obtainable Market (SOM) is likely the small and medium s
 
 ## Competition
 
-# https://www.tablesgenerator.com
+<!-- https://www.tablesgenerator.com -->
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
@@ -92,7 +92,7 @@ Finally, the Servicable Obtainable Market (SOM) is likely the small and medium s
 .tg .tg-18q7{background-color:#70AD47;text-align:center;vertical-align:bottom}
 .tg .tg-31j1{background-color:#FFC000;text-align:center;vertical-align:bottom}
 .tg .tg-j6zm{font-weight:bold;text-align:left;vertical-align:bottom}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom}
+.tg .tg-7zrl{text-align:left;vertical-align:bottom; white-space:nowrap;}
 .tg .tg-rtra{background-color:#ED7D31;text-align:center;vertical-align:bottom}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg">
