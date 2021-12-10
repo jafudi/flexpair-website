@@ -229,10 +229,10 @@ Finally, the Servicable Obtainable Market (SOM) is likely the small and medium s
   </tr>
   <tr>
     <td class="tg-7zrl"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black">Own your own data</span></td>
-    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
     <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
     <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
-    <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">No</span></td>
+    <td class="tg-rtra"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#ED7D31">No</span></td>
     <td class="tg-18q7"><span style="font-weight:400;font-style:normal;text-decoration:none;color:black;background-color:#70AD47">Yes</span></td>
   </tr>
 </tbody>
