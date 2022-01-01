@@ -10,7 +10,7 @@ by following clear design principles:
 2. Provide secure and easy access → *strong encryption, zero local install, respect for privacy*
 3. Minimize the use of resources → *RAM and band width requirements, no duplicate hardware*
 
-![High-level illustration of the Flexpair architecture](assets/architecture.png)
+![High-level illustration of Flexpair architecture](assets/architecture.png)
 ## Problem
 
 Data science has become location-independent. Still it is lacking a meaningful integration of synchronous and asynchronous work steps in one tool.
